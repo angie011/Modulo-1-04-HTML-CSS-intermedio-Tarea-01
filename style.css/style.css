@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/**{
+    margin:0;
+    padding: 0;
+}*/
+
+header{
+    background-color: #1B8EFE;
+    height: 980px;
+}
+
+#imgHeroe img{
+    margin: 110px 60px;
+    padding-left: 180px;
+}
+
+#logoTexto{
+    display: block;
+    margin-top: -670px;
+}
+
+#logoTexto p{
+    color: #fff;
+}
+
+#logoTexto p,button {
+    margin-left: 300px;
+}
+
+#logoTexto img {
+    margin-left: 275px;
+}
+
+#logoTexto #disponible{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+#logoTexto #texto{
+    font-family: 'Roboto', sans-serif;
+    line-height : 25px;
+}
+
+button{
+    border-radius: 35px;
+    height: 60px;
+    width: 160px;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #1B8EFE;
+    border: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+}
+
+
+
